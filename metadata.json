@@ -1,0 +1,7 @@
+{
+  "name": "Vinh Khanh Food Street Voice System",
+  "description": "A multilingual, location-based proactive audio guide for tourists exploring Vinh Khanh Food Street.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
